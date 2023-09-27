@@ -17,7 +17,9 @@ Proyecto de personaje navideño
 |SSD1602|1.8.1|Software Libre|
 
 ## Prototipo en dibujo
-
+- Fotografía de dibujo
 ## Comunicacón
-
+- Describir de manera que creen que se utilizaría su celular pata comunicarse con su personaje.
+## Arquitectura
+- Diagrama que contenga los sensores, los actuadores, microcontrolador, el servidor,
 ## Base de datos
